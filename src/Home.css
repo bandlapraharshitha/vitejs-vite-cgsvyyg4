@@ -19,3 +19,18 @@ h1 {
   font-size: 2.5em;
   color: #333;
 }
+
+.add-book-button {
+  display: inline-block;
+  padding: 10px 15px;
+  margin: 10px 0;
+  background-color: #646cff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  text-align: center;
+}
+.add-book-button:hover {
+  background-color: #535bf2;
+}
